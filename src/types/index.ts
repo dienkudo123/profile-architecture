@@ -39,6 +39,7 @@ export interface CareerHistory {
     description: string;
 }
 
+
 export interface Quotation {
     _id: string;
     service_name: string;

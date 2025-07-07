@@ -9,6 +9,7 @@ function App() {
                 <Routes>
                     <Route path="/" element={<Page />} />
                     {/* Thêm các page khác */}
+
                 </Routes>
             </MainLayout>
         </Router>
